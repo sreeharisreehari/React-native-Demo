@@ -9,7 +9,7 @@ import SwitchComponent from './Sidebar';
 export default function App() {
   return (
     <>
-   
+    
      <MyComponent/>
      <Home/>
 
